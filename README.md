@@ -9,6 +9,12 @@ A `CoreXY` Printer has these advantages:
 > Simple. CoreXY can be implemented with only three structural plates, all of which can nest during fabrication.  
 > Flexible. Whether your medium is fabric or aluminum, the principle behind CoreXY permits motion stages to be rendered in a variety of materials and a wide range of sizes.  
 
+Main Features
+=========================
+* Full 200x200x200mm build space
+* 380x380x400mm Extendable frame
+* All parts excluding the Extruder are internal-placed
+
 This repository contains ONLY all printed parts.
 
 Non-Printed Parts
