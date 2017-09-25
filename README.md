@@ -1,8 +1,10 @@
 # Aimu_CoreXY_3DPrinter
 
-This is a RAMPS based `Core-XY` 3D printer.
-
-> for more knowledge of `corexy`, refer to [CoreXY](http://www.corexy.com/theory.html).
+This is a RAMPS based [CoreXY](http://www.corexy.com/theory.html) 3D printer.  
+A `CoreXY` Printer has these advantages:  
+> Fast. We believe in speed. CoreXY's (mostly) parallel kinematics mean that the motors, typically the largest source of inertia on a DIY-grade stage, are stationary. This permits rapid accelerations.
+> Simple. CoreXY can be implemented with only three structural plates, all of which can nest during fabrication.
+> Flexible. Whether your medium is fabric or aluminum, the principle behind CoreXY permits motion stages to be rendered in a variety of materials and a wide range of sizes.
 
 This repository contains ONLY all printed parts.
 
