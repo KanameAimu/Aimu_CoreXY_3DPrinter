@@ -1,0 +1,12 @@
+difference()
+{
+    union()
+    {
+        cube([15,6,2]);
+    }
+    union()
+    {
+        translate([15/2,6/2,0])
+            cylinder(d=3.5,h=2,$fn=12);
+    }
+}
